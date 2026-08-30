@@ -1,0 +1,25 @@
+{
+  "name": "Dr. Kong Studio",
+  "short_name": "Dr. Kong",
+  "description": "Editor de reels de Dr. Kong: guion, voz, b-roll, subtítulos y portada.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10151c",
+  "theme_color": "#10151c",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
